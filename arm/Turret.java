@@ -18,6 +18,6 @@ public void turretGoTo(int theta) {
 }
 
 public String toString() {
-	return  "," + turretJoint; 
+	return   ""+ turretJoint; 
 }
 }
